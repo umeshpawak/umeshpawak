@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm Umesh Pawaiya, a full-stack engineer and final-year B.Tech student at NIT Nagpur. I'm currently a founding engineer at SynapseAI, where I'm building a healthcare AI platform that turns handwritten psychiatric notes into structured clinical reports, already used by 4 clinics. I work mainly with Next.js, TypeScript, and Supabase, and I love building things end-to-end — from REST APIs to polished, animated frontends with GSAP.<br>Beyond web dev, I've also explored ML through a research project predicting high-temperature fatigue behavior in superalloys, and spent time on industrial process optimization at a steel plant. I'm always excited to build products that solve real problems and collaborate on interesting full-stack or AI projects.
+B.Tech graduate from NIT Nagpur.
+Passionate about full-stack development, AI, and modern web technologies.
+Always learning, building, and open to exciting opportunities.
 
 
 ## 🌐 Socials:
@@ -12,14 +14,8 @@ I'm Umesh Pawaiya, a full-stack engineer and final-year B.Tech student at NIT Na
 ![](https://streak-stats.demolab.com/?user=umeshpawak&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=umeshpawak&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=umeshpawak&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=umeshpawak&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=umeshpawak&icon=0&color=0)](https://visitcount.itsvg.in)
