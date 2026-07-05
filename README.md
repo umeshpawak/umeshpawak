@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 B.Tech graduate from NIT Nagpur.
 Passionate about full-stack development, AI, and modern web technologies.
 Always learning, building, and open to exciting opportunities.
